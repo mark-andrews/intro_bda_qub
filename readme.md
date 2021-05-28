@@ -20,12 +20,3 @@ These slides contain links to the following online demos:
 2. [Binomial likelihood for coin toss data](https://lawsofthought.shinyapps.io/binomial_likelihood).
 3. [Bayesian inference for coin toss data](https://lawsofthought.shinyapps.io/bayesian_coin_inference).
 
-## Binder RStudio Server
-
-An RStudio server session with Stan and `brms` installed and ready to use is available by clicking this button.
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/mark-andrews/intro_bda_qub/HEAD?urlpath=rstudio)
-In there, you will find all the scripts in this repository, including an [example `brms` script](brm_script.R).
-
-## Installing Stan and `brms`
-
-Instructions on how to install Stan and `brms` on your machine is [here](software.md).
