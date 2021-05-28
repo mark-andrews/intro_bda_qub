@@ -124,10 +124,3 @@ M <- brm(x ~ 1, data = data_df)
 And all was well.
 
 
-### If all else fails?
-
-The following RStudio server project can be used for anyone having trouble with Stan installation.
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/mark-andrews/hellobinder-rstan/HEAD?urlpath=rstudio)
-
-
-While this *does* work, the binder service may limit the RAM size of some models. As such, while the smaller models will work, the more RAM hungry ones might not work.
